@@ -27,6 +27,58 @@ curl -X POST "http://localhost:8000/ask" \
 python test_comparison.py
 ```
 
+## Example Requests
+
+### Easy Example (Baseline Mode - No Answer)
+```bash
+curl -X POST "http://localhost:8000/ask" \
+     -H "Content-Type: application/json" \
+     -d '{"q": "What is ISO 13849-1?", "k": 5, "mode": "baseline"}'
+```
+
+**Result**: Returns contexts but no answer
+```json
+{
+    "answer": null,
+    "contexts": [
+        {
+            "text": "ISO 13849-1:2015 - Safety of machinery - Safety-related parts of control systems...",
+            "score": 0.364,
+            "source": "ISO 13849-1:2015 - Safety of machinery - Safety-related parts of control systems",
+            "url": "https://www.iso.org/standard/69883.html"
+        }
+    ],
+    "reranker_used": false,
+    "reason": "Top result score (0.364) below confidence threshold (0.7)",
+    "query": "What is ISO 13849-1?"
+}
+```
+
+### Tricky Example (Reranked Mode - Complete Answer)
+```bash
+curl -X POST "http://localhost:8000/ask" \
+     -H "Content-Type: application/json" \
+     -d '{"q": "What are the different performance levels in safety systems?", "k": 5, "mode": "reranked"}'
+```
+
+**Result**: Returns complete answer with citations
+```json
+{
+    "answer": "Performance levels are determined based on the combination of safety integrity level (SIL) and mean time to dangerous failure (MTTFd) The standard defines performance levels (PL) from PLa to PLe, where PLe represents the highest level of safety integrity...\n\nSources: [1] ISO 13849-1:2015 - Safety of machinery - Safety-related parts of control systems, [2] OSHA Machine Guarding Safety Requirements",
+    "contexts": [
+        {
+            "text": "ISO 13849-1:2015 - Safety of machinery - Safety-related parts of control systems...",
+            "score": 1.0,
+            "source": "ISO 13849-1:2015 - Safety of machinery - Safety-related parts of control systems",
+            "url": "https://www.iso.org/standard/69883.html"
+        }
+    ],
+    "reranker_used": true,
+    "reason": "Answer generated from 2 sources with top score 1.000",
+    "query": "What are the different performance levels in safety systems?"
+}
+```
+
 ## API Endpoint
 
 POST `/ask`
