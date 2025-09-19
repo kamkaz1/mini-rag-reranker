@@ -1,0 +1,17 @@
+
+        ISO 13849-1:2015 - Safety of machinery - Safety-related parts of control systems
+        
+        This international standard specifies safety requirements for safety-related parts of control systems. 
+        It provides guidance on the design and integration of safety-related parts of control systems.
+        
+        The standard defines performance levels (PL) from PLa to PLe, where PLe represents the highest level of safety integrity.
+        Performance levels are determined based on the combination of safety integrity level (SIL) and mean time to dangerous failure (MTTFd).
+        
+        Key requirements include:
+        - Systematic capability (SC) requirements
+        - Hardware fault tolerance (HFT) requirements  
+        - Diagnostic coverage (DC) requirements
+        - Common cause failure (CCF) requirements
+        
+        The standard applies to safety-related parts of control systems that are used to perform safety functions.
+        

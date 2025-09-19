@@ -1,0 +1,23 @@
+
+        OSHA Machine Guarding Safety Requirements
+        
+        Machine guarding is essential for protecting workers from machine hazards. OSHA requires that machines be guarded to prevent worker injury.
+        
+        Types of machine guards include:
+        - Fixed guards: Permanent barriers that prevent access to danger zones
+        - Interlocked guards: Guards that automatically shut off the machine when opened
+        - Adjustable guards: Guards that can be adjusted for different operations
+        - Self-adjusting guards: Guards that move with the work piece
+        
+        General requirements:
+        - Guards must prevent contact with moving parts
+        - Guards must be secure and not create new hazards
+        - Guards must allow for safe operation and maintenance
+        - Emergency stop devices must be readily accessible
+        
+        Common machine hazards include:
+        - Point of operation hazards
+        - In-running nip point hazards
+        - Rotating parts hazards
+        - Flying chips and sparks
+        

@@ -1,0 +1,24 @@
+
+        NFPA 79:2018 - Electrical Standard for Industrial Machinery
+        
+        This standard covers electrical/electronic equipment of industrial machines operating from a nominal voltage of 600 volts or less.
+        It provides requirements for the electrical equipment of machines to promote safety and reduce fire hazards.
+        
+        Key requirements include:
+        - Electrical equipment must be suitable for its intended use
+        - Equipment must be properly installed and maintained
+        - Electrical connections must be secure and protected
+        - Grounding and bonding requirements must be met
+        
+        Safety requirements:
+        - Emergency stop circuits must be fail-safe
+        - Control circuits must be properly designed
+        - Electrical enclosures must provide adequate protection
+        - Cable management systems must be properly installed
+        
+        The standard also covers:
+        - Motor control circuits
+        - Lighting and receptacle circuits
+        - Special equipment and systems
+        - Maintenance and testing requirements
+        

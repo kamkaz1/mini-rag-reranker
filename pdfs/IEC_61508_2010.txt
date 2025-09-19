@@ -1,0 +1,17 @@
+
+        IEC 61508:2010 - Functional safety of electrical/electronic/programmable electronic safety-related systems
+        
+        This standard provides a generic approach for all safety lifecycle activities for systems that are used to perform safety functions.
+        It covers the safety lifecycle from initial concept through decommissioning.
+        
+        The standard defines four safety integrity levels (SIL 1 to SIL 4), where SIL 4 represents the highest level of safety integrity.
+        Each SIL has specific requirements for:
+        - Hardware safety integrity
+        - Systematic safety integrity
+        - Software safety integrity
+        
+        Key concepts include:
+        - Safety function: Function to be implemented by an E/E/PE safety-related system
+        - Safety integrity: Probability of a safety-related system satisfactorily performing the required safety functions
+        - Safety lifecycle: All activities necessary to achieve functional safety
+        

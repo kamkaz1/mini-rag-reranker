@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+PyPDF2
+numpy
+scikit-learn
+rank-bm25
+python-multipart
+pydantic

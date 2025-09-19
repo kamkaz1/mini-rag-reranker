@@ -1,0 +1,24 @@
+
+        EN ISO 12100:2010 - Safety of machinery - General principles for design - Risk assessment and risk reduction
+        
+        This standard provides general principles for the design of machinery and guidance for risk assessment and risk reduction.
+        It establishes a systematic approach to machinery safety.
+        
+        The risk assessment process includes:
+        1. Determination of the limits of the machinery
+        2. Hazard identification
+        3. Risk estimation
+        4. Risk evaluation
+        5. Risk reduction
+        
+        Risk reduction follows the three-step method:
+        1. Inherently safe design measures
+        2. Safeguarding and/or complementary protective measures
+        3. Information for use
+        
+        Key principles:
+        - Safety by design is the most effective approach
+        - Risk assessment should be iterative
+        - Residual risks must be communicated to users
+        - Safety measures should not create new hazards
+        

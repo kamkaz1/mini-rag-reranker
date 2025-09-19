@@ -1,0 +1,104 @@
+{
+  "sources": [
+    {
+      "filename": "ISO_13849-1_2015.pdf",
+      "title": "ISO 13849-1:2015 - Safety of machinery - Safety-related parts of control systems",
+      "url": "https://www.iso.org/standard/69883.html"
+    },
+    {
+      "filename": "IEC_61508_2010.pdf", 
+      "title": "IEC 61508:2010 - Functional safety of electrical/electronic/programmable electronic safety-related systems",
+      "url": "https://www.iec.ch/standardsdev/funcsafety/iec61508.htm"
+    },
+    {
+      "filename": "ANSI_B11_2010.pdf",
+      "title": "ANSI B11.0-2010 - Safety of Machinery - General Requirements and Risk Assessment",
+      "url": "https://www.ansi.org/standards-activity/standards-boards-committees/b11"
+    },
+    {
+      "filename": "OSHA_Machine_Guarding.pdf",
+      "title": "OSHA Machine Guarding Safety Requirements",
+      "url": "https://www.osha.gov/machine-guarding"
+    },
+    {
+      "filename": "EN_ISO_12100_2010.pdf",
+      "title": "EN ISO 12100:2010 - Safety of machinery - General principles for design - Risk assessment and risk reduction",
+      "url": "https://www.iso.org/standard/51528.html"
+    },
+    {
+      "filename": "NFPA_79_2018.pdf",
+      "title": "NFPA 79:2018 - Electrical Standard for Industrial Machinery",
+      "url": "https://www.nfpa.org/codes-and-standards/all-codes-and-standards/list-of-codes-and-standards/detail?code=79"
+    },
+    {
+      "filename": "IEC_60204-1_2016.pdf",
+      "title": "IEC 60204-1:2016 - Safety of machinery - Electrical equipment of machines",
+      "url": "https://www.iec.ch/standardsdev/funcsafety/iec60204.htm"
+    },
+    {
+      "filename": "ASME_B15.1_2012.pdf",
+      "title": "ASME B15.1-2012 - Safety Standard for Mechanical Power Transmission Apparatus",
+      "url": "https://www.asme.org/codes-standards/find-codes-standards/b15-1-safety-standard-mechanical-power-transmission-apparatus"
+    },
+    {
+      "filename": "ISO_14120_2015.pdf",
+      "title": "ISO 14120:2015 - Safety of machinery - Guards - General requirements for the design and construction of fixed and movable guards",
+      "url": "https://www.iso.org/standard/65583.html"
+    },
+    {
+      "filename": "IEC_62061_2015.pdf",
+      "title": "IEC 62061:2015 - Safety of machinery - Functional safety of safety-related electrical, electronic and programmable electronic control systems",
+      "url": "https://www.iec.ch/standardsdev/funcsafety/iec62061.htm"
+    },
+    {
+      "filename": "EN_ISO_13857_2019.pdf",
+      "title": "EN ISO 13857:2019 - Safety of machinery - Safety distances to prevent hazard zones being reached by upper and lower limbs",
+      "url": "https://www.iso.org/standard/73491.html"
+    },
+    {
+      "filename": "ANSI_RIA_R15.06_2012.pdf",
+      "title": "ANSI/RIA R15.06-2012 - Industrial Robots and Robot Systems - Safety Requirements",
+      "url": "https://www.robotics.org/robotics/standards"
+    },
+    {
+      "filename": "ISO_10218-1_2011.pdf",
+      "title": "ISO 10218-1:2011 - Robots and robotic devices - Safety requirements for industrial robots",
+      "url": "https://www.iso.org/standard/51330.html"
+    },
+    {
+      "filename": "IEC_61496-1_2012.pdf",
+      "title": "IEC 61496-1:2012 - Safety of machinery - Electro-sensitive protective equipment",
+      "url": "https://www.iec.ch/standardsdev/funcsafety/iec61496.htm"
+    },
+    {
+      "filename": "EN_ISO_13849-2_2012.pdf",
+      "title": "EN ISO 13849-2:2012 - Safety of machinery - Safety-related parts of control systems - Part 2: Validation",
+      "url": "https://www.iso.org/standard/69884.html"
+    },
+    {
+      "filename": "ANSI_B11.19_2019.pdf",
+      "title": "ANSI B11.19-2019 - Performance Requirements for Safeguarding",
+      "url": "https://www.ansi.org/standards-activity/standards-boards-committees/b11"
+    },
+    {
+      "filename": "ISO_14118_2017.pdf",
+      "title": "ISO 14118:2017 - Safety of machinery - Prevention of unexpected start-up",
+      "url": "https://www.iso.org/standard/65581.html"
+    },
+    {
+      "filename": "IEC_60947-5-1_2016.pdf",
+      "title": "IEC 60947-5-1:2016 - Low-voltage switchgear and controlgear - Electromechanical control circuit devices and switching elements",
+      "url": "https://www.iec.ch/standardsdev/funcsafety/iec60947.htm"
+    },
+    {
+      "filename": "EN_ISO_13850_2015.pdf",
+      "title": "EN ISO 13850:2015 - Safety of machinery - Emergency stop function - Principles for design",
+      "url": "https://www.iso.org/standard/65582.html"
+    },
+    {
+      "filename": "ANSI_B11.20_2017.pdf",
+      "title": "ANSI B11.20-2017 - Safety Requirements for Integrated Manufacturing Systems",
+      "url": "https://www.ansi.org/standards-activity/standards-boards-committees/b11"
+    }
+  ]
+}
